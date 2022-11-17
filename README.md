@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-b-cruz/)
 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbcruz99&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbcruz99&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbcruz99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias: 
 
@@ -20,4 +20,4 @@
 <img style="border-radius: 5px;" align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img style="border-radius: 5px;" align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
- 
+
