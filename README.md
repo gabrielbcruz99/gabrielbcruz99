@@ -9,6 +9,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbcruz99&layout=compact&langs_count-16&theme=radical"/>
 </div>
 ##
+    
 ## Tecnologias: 
 
 <div style="display: inline_block; padding-left: 10px;"><br/>
