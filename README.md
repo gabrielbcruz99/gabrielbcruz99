@@ -1,4 +1,5 @@
 ### Olá, meu nome é Gabriel, tenho 23 anos e sou do Rio de Janeiro, RJ - Brasil.
+##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-b-cruz/)
 
 
@@ -7,7 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbcruz99&show_icons=true&theme=radical&include_all_commits=true&count_private-true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbcruz99&layout=compact&langs_count-16&theme=radical"/>
 </div>
-
+##
 ## Tecnologias: 
 
 <div style="display: inline_block; padding-left: 10px;"><br/>
