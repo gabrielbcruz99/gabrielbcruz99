@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel, tenho 23 anos e sou do Rio de Janeiro, RJ - Brasil.
+### Olá, meu nome é Gabriel, tenho 24 anos e sou do Rio de Janeiro, RJ - Brasil.
 ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-b-cruz/)
 
